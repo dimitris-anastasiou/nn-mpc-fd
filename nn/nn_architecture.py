@@ -1,3 +1,5 @@
+# NN Architecture
+
 import torch
 from torch.utils.data import Dataset, DataLoader, random_split
 import os
