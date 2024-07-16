@@ -17,9 +17,10 @@ This project involves the implementation of advanced control systems for a 3-lin
   - **mpc_controller.py**: Implementation of the Model Predictive Control (MPC) class.
  
 ## Setup Instructions
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/dimitris-anastasiou/nn-mpc-fd.git
+
+1. Clone the repository
+  ```sh
+  git clone https://github.com/dimitris-anastasiou/nn-mpc-fd.git
 
 2. Navigate to the project directory:
   ```sh
