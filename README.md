@@ -19,8 +19,8 @@ This project involves the implementation of advanced control systems for a 3-lin
 ## Setup Instructions
 1. Clone the repository:
    ```sh
-    git clone https://github.com/dimitris-anastasiou/nn-mpc-fd.git
+   git clone https://github.com/dimitris-anastasiou/nn-mpc-fd.git
 
 2. Navigate to the project directory:
   ```sh
-    cd nn-mpc-fd
+  cd nn-mpc-fd
